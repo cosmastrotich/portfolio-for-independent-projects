@@ -1,13 +1,15 @@
-h1{
+.head{
   colour:red;
+  text-align: center;
 }
 .important{
  margin: 5px;
  float :left;
  font family: fantasy;
 }
-.body{
-  background-color: blue;
+body{
+  background-color: wheat;
+  background-image: url(../Background-image.png);
 }
 .image{
   float:left:
